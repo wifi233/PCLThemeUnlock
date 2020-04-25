@@ -1,2 +1,2 @@
-仅适用于PCL2，仅供学习与交流。
-注：本工具自PCL II Alpha 1.3.3版本起无法解锁秋仪金主题，PCL作者采用了RSA签名，程序仅内置RSA验签所需的公钥，如需正常方法解锁秋仪金，只能通过对撞得出RSA私钥，但这个方法所需计算量过大，本工具无法实现。
+#PCLThemeUnlock
+It's for learning and communication only.It can't unlock the gold theme later Alapha 1.3.2.If you want to unlock the gold theme for free,please use the tool named PCLGoldUnlock.
